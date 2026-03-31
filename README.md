@@ -1,4 +1,4 @@
-# Android device tree for Redmi spinel (spinel)
+# Android device tree for Redmi Note 15 4G (spinel)
 
 ```
 #
